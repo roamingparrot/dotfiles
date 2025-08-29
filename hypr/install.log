@@ -1,0 +1,9 @@
+[21:36:54 2025-08-26] FETCHING Version 2.41.0
+[21:36:54 2025-08-26] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.41.0/spicetify-2.41.0-linux-amd64.tar.gz
+[21:36:54 2025-08-26] EXTRACTING /home/roaming/.spicetify/spicetify.tar.gz
+[21:36:54 2025-08-26] SETTING EXECUTABLE PERMISSIONS TO /home/roaming/.spicetify/spicetify
+[21:36:54 2025-08-26] REMOVING /home/roaming/.spicetify/spicetify.tar.gz
+[21:36:54 2025-08-26] spicetify path already set in /home/roaming/.bashrc, continuing...
+[21:36:54 2025-08-26] spicetify path already set in /home/roaming/.bash_profile, continuing...
+[21:36:54 2025-08-26] spicetify v2.41.0 was installed successfully to /home/roaming/.spicetify
+[21:36:54 2025-08-26] Run 'spicetify --help' to get started

@@ -1,0 +1,24 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Floorp-HXKJB3.desktop
+x-scheme-handler/https=userapp-Floorp-HXKJB3.desktop
+x-scheme-handler/chrome=userapp-Floorp-HXKJB3.desktop
+text/html=userapp-Floorp-HXKJB3.desktop
+application/x-extension-htm=userapp-Floorp-HXKJB3.desktop
+application/x-extension-html=userapp-Floorp-HXKJB3.desktop
+application/x-extension-shtml=userapp-Floorp-HXKJB3.desktop
+application/xhtml+xml=userapp-Floorp-HXKJB3.desktop
+application/x-extension-xhtml=userapp-Floorp-HXKJB3.desktop
+application/x-extension-xht=userapp-Floorp-HXKJB3.desktop
+x-scheme-handler/discord=vesktop.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Floorp-HXKJB3.desktop;
+x-scheme-handler/https=userapp-Floorp-HXKJB3.desktop;
+x-scheme-handler/chrome=userapp-Floorp-HXKJB3.desktop;
+text/html=userapp-Floorp-HXKJB3.desktop;
+application/x-extension-htm=userapp-Floorp-HXKJB3.desktop;
+application/x-extension-html=userapp-Floorp-HXKJB3.desktop;
+application/x-extension-shtml=userapp-Floorp-HXKJB3.desktop;
+application/xhtml+xml=userapp-Floorp-HXKJB3.desktop;
+application/x-extension-xhtml=userapp-Floorp-HXKJB3.desktop;
+application/x-extension-xht=userapp-Floorp-HXKJB3.desktop;

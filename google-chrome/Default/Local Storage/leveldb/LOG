@@ -1,0 +1,17 @@
+2025/08/29-10:55:15.135 4 Creating DB /home/roaming/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2025/08/29-10:55:15.144 4 Reusing MANIFEST /home/roaming/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/08/29-10:56:15.146 5 Level-0 table #5: started
+2025/08/29-10:56:15.190 5 Level-0 table #5: 45977 bytes OK
+2025/08/29-10:56:15.194 5 Delete type=0 #3
+2025/08/29-10:59:34.290 4 Level-0 table #7: started
+2025/08/29-10:59:34.291 4 Level-0 table #7: 28090 bytes OK
+2025/08/29-10:59:34.293 4 Delete type=0 #4
+2025/08/29-11:02:28.315 5 Level-0 table #9: started
+2025/08/29-11:02:28.317 5 Level-0 table #9: 59983 bytes OK
+2025/08/29-11:02:28.319 5 Delete type=0 #6
+2025/08/29-11:03:21.871 5 Level-0 table #11: started
+2025/08/29-11:03:21.874 5 Level-0 table #11: 54475 bytes OK
+2025/08/29-11:03:21.877 5 Delete type=0 #8
+2025/08/29-11:03:42.499 5 Level-0 table #13: started
+2025/08/29-11:03:42.501 5 Level-0 table #13: 28126 bytes OK
+2025/08/29-11:03:42.505 5 Delete type=0 #10

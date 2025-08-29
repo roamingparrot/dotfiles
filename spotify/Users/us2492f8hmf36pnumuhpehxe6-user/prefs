@@ -1,0 +1,4 @@
+connect.mdns_devices="[]"
+connect.dial_devices="[{\"address\":\"192.168.212.182\",\"app_state\":\"MISSING\",\"created_timestamp\":1756389723,\"device_id\":\"2ed213b0-8ff5-3fbe-8b7a-c1b4049258fc\",\"dial_location_url\":\"http://192.168.212.182:60000/dd.xml\",\"display_name\":\"Mr's Fire TV\",\"last_seen\":1756389740,\"manufacturer\":\"Amazon\",\"model_name\":\"AFTKM\",\"product_cap\":\"\",\"public_ip\":\"86.20.156.115\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"84285981a4fd\",\"port\":9,\"retries\":160}}]"
+audio.play_bitrate_non_metered_migrated=true
+app.browser.zoom-level=100

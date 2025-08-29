@@ -122,3 +122,35 @@ To https://github.com/roamingparrot/dotfiles.git
  ! [remote rejected] main -> main (push declined due to repository rule violations)
 error: failed to push some refs to 'https://github.com/roamingparrot/dotfiles.git'
 
+2025-08-29T13:45:49.020Z - info: [ui] [Timing] Action 'create commit' for '.config' took 0.274s
+2025-08-29T13:46:00.958Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-29T13:46:00.960Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=ff52f1f3-bfa3-454c-9f93-2848bcce428f
+2025-08-29T13:46:02.852Z - info: [main] Received possible protocol arguments: 3
+2025-08-29T13:46:02.852Z - info: [main] Processing protocol url
+2025-08-29T13:46:02.883Z - info: [main] Received possible protocol arguments: 2
+2025-08-29T13:46:02.885Z - info: [main] Processing protocol url
+2025-08-29T13:46:03.641Z - info: [ui] [SignInStore] account resolved
+2025-08-29T13:46:03.641Z - info: [ui] [AppStore] adding account roamingparrot (roamingparrot) to store
+2025-08-29T13:46:03.646Z - error: [ui] Error adding account 'roamingparrot'
+Error: The name is not activatable
+2025-08-29T13:47:35.308Z - info: [ui] Executing push: git push origin main --set-upstream --progress (took 95.704s)
+2025-08-29T13:47:35.309Z - error: [ui] `git push origin main --set-upstream --progress` exited with an unexpected code: 1.
+    
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/roamingparrot/dotfiles/security/secret-scanning/unblock-secret/31xnYV4B3WxcP6u7KMgaoE18wya        
+remote:             
+remote:             
+remote:     ——[ WARNING ]—————————————————————————————————————————        
+remote:      Scan incomplete: This push was large and we didn't finish on time.        
+remote:      It can still contain undetected secrets.        
+remote:             
+remote:      (?) Use the following command to find the path of the detected secret(s):        
+remote:          git rev-list --objects --all | grep blobid        
+remote:     ——————————————————————————————————————————————————————        
+remote: 
+remote: 
+To https://github.com/roamingparrot/dotfiles.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/roamingparrot/dotfiles.git'
+

@@ -29,3 +29,96 @@ Error: The name is not activatable
 2025-08-29T13:34:47.814Z - info: [ui] [Welcome] no sign in step found. ignoring...
 2025-08-29T13:34:48.029Z - info: [ui] [Welcome] no sign in step found. ignoring...
 2025-08-29T13:35:41.054Z - info: [ui] [AppStore] adding repository at /home/roaming/.config to store
+2025-08-29T13:36:16.493Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-29T13:36:16.495Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=e9b68eef-f789-4921-9e64-f73f0d3e969b
+2025-08-29T13:36:17.716Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 9.176s)
+2025-08-29T13:36:17.800Z - info: [ui] [Timing] Action 'create commit' for '.config' took 9.323s
+2025-08-29T13:36:18.715Z - info: [main] Received possible protocol arguments: 3
+2025-08-29T13:36:18.715Z - info: [main] Processing protocol url
+2025-08-29T13:36:18.742Z - info: [main] Received possible protocol arguments: 2
+2025-08-29T13:36:18.744Z - info: [main] Processing protocol url
+2025-08-29T13:36:19.473Z - info: [ui] [SignInStore] account resolved
+2025-08-29T13:36:19.473Z - info: [ui] [AppStore] adding account roamingparrot (roamingparrot) to store
+2025-08-29T13:36:19.474Z - error: [ui] Error adding account 'roamingparrot'
+Error: The name is not activatable
+2025-08-29T13:37:18.887Z - info: [ui] Executing push: git push origin main --set-upstream --progress (took 65.034s)
+2025-08-29T13:37:18.888Z - error: [ui] `git push origin main --set-upstream --progress` exited with an unexpected code: 1.
+    
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/roamingparrot/dotfiles/security/secret-scanning/unblock-secret/31xnYV4B3WxcP6u7KMgaoE18wya        
+remote:             
+remote:             
+remote:     ——[ WARNING ]—————————————————————————————————————————        
+remote:      Scan incomplete: This push was large and we didn't finish on time.        
+remote:      It can still contain undetected secrets.        
+remote:             
+remote:      (?) Use the following command to find the path of the detected secret(s):        
+remote:          git rev-list --objects --all | grep blobid        
+remote:     ——————————————————————————————————————————————————————        
+remote: 
+remote: 
+To https://github.com/roamingparrot/dotfiles.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/roamingparrot/dotfiles.git'
+
+2025-08-29T13:37:33.024Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.7s of which 0.0s paused, total 0.7s
+2025-08-29T13:38:49.555Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-29T13:38:49.557Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=39fc1c45-d463-47cc-8e63-8e902868f1f9
+2025-08-29T13:38:51.676Z - info: [main] Received possible protocol arguments: 3
+2025-08-29T13:38:51.676Z - info: [main] Processing protocol url
+2025-08-29T13:38:51.711Z - info: [main] Received possible protocol arguments: 2
+2025-08-29T13:38:52.405Z - info: [ui] [SignInStore] account resolved
+2025-08-29T13:38:52.405Z - info: [ui] [AppStore] adding account roamingparrot (roamingparrot) to store
+2025-08-29T13:38:52.407Z - error: [ui] Error adding account 'roamingparrot'
+Error: The name is not activatable
+2025-08-29T13:40:39.608Z - info: [ui] Executing push: git push origin main --set-upstream --progress (took 112.814s)
+2025-08-29T13:40:39.613Z - error: [ui] `git push origin main --set-upstream --progress` exited with an unexpected code: 1.
+    
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/roamingparrot/dotfiles/security/secret-scanning/unblock-secret/31xnYV4B3WxcP6u7KMgaoE18wya        
+remote:             
+remote:             
+remote:     ——[ WARNING ]—————————————————————————————————————————        
+remote:      Scan incomplete: This push was large and we didn't finish on time.        
+remote:      It can still contain undetected secrets.        
+remote:             
+remote:      (?) Use the following command to find the path of the detected secret(s):        
+remote:          git rev-list --objects --all | grep blobid        
+remote:     ——————————————————————————————————————————————————————        
+remote: 
+remote: 
+To https://github.com/roamingparrot/dotfiles.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/roamingparrot/dotfiles.git'
+
+2025-08-29T13:42:57.903Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-29T13:42:57.909Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=c427d3d7-95d4-41ad-a0d1-a99952bb2d56
+2025-08-29T13:42:59.911Z - info: [main] Received possible protocol arguments: 3
+2025-08-29T13:42:59.911Z - info: [main] Processing protocol url
+2025-08-29T13:43:00.695Z - info: [ui] [SignInStore] account resolved
+2025-08-29T13:43:00.695Z - info: [ui] [AppStore] adding account roamingparrot (roamingparrot) to store
+2025-08-29T13:43:00.696Z - error: [ui] Error adding account 'roamingparrot'
+Error: The name is not activatable
+2025-08-29T13:44:27.579Z - info: [ui] Executing push: git push origin main --set-upstream --progress (took 90.903s)
+2025-08-29T13:44:27.584Z - error: [ui] `git push origin main --set-upstream --progress` exited with an unexpected code: 1.
+    
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/roamingparrot/dotfiles/security/secret-scanning/unblock-secret/31xnYV4B3WxcP6u7KMgaoE18wya        
+remote:             
+remote:             
+remote:     ——[ WARNING ]—————————————————————————————————————————        
+remote:      Scan incomplete: This push was large and we didn't finish on time.        
+remote:      It can still contain undetected secrets.        
+remote:             
+remote:      (?) Use the following command to find the path of the detected secret(s):        
+remote:          git rev-list --objects --all | grep blobid        
+remote:     ——————————————————————————————————————————————————————        
+remote: 
+remote: 
+To https://github.com/roamingparrot/dotfiles.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/roamingparrot/dotfiles.git'
+
